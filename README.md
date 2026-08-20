@@ -31,7 +31,7 @@ Abaixo estão os módulos e tópicos que já foram estudados e documentados nest
 1. Certifique-se de ter o **Node.js** instalado na sua máquina.
 2. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone <url-do-seu-repositorio>
+   git clone https://github.com/imanthonypeter/Udemy_Node_Express.git
    ```
 3. Instale as dependências gerais do projeto:
    ```bash

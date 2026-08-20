@@ -1,0 +1,23 @@
+{
+  "name": "udemy_node_express",
+  "version": "1.0.0",
+  "description": "Meu repo dos resumos dos meus códigos das aulas de Node/Express.js da Udemy pelo Mateus Bartisti(ou sei lá como se escreve o sobrenome dele) kkkk",
+  "keywords": [
+    "peter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "license": "MIT",
+  "author": "António Pedro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.7"
+  }
+}
